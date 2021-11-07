@@ -1,5 +1,4 @@
 package com.day30;
-
 public class Ride {
     private final double distance;
     private final int time;
