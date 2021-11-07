@@ -1,8 +1,11 @@
 package com.day30;
 
+
 import java.util.Objects;
 
 public class InvoiceSummary {
+
+
     int numberOfRides;
     double totalFare;
     double avgFare;
